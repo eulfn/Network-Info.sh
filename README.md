@@ -33,4 +33,4 @@ A chill little shell script to show your local IP, public IP, DNS, and gateway. 
 
 ---
 
-Quick, simple, and to the point. :) 
+Dont Forget To Add As Star!
