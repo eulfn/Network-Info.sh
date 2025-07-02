@@ -1,6 +1,6 @@
 # IP & DNS Info Tool
 
-A chill little shell script to show your local IP, public IP, DNS, and gateway. Works on Linux, Termux, and most shells. No root needed.
+shell script to show your local IP, public IP, DNS, and gateway. Works on Linux, Termux, and most shells. No root needed
 
 ## What it does
 - Shows your local IP (the one your device has on your network)
